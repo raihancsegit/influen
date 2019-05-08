@@ -1,0 +1,279 @@
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+.slider-wrapper {
+	width: 100%;
+}
+.main-menu ul li a {
+padding: 30px 10px;
+}
+.slider-text h1 {
+font-size: 42px;
+}
+.single-testimonial {
+padding: 10px 190px;
+}
+.service-v8-wrapper:nth-child(3n+1) {
+	clear: both;
+}
+
+}
+
+@media screen and (max-width: 992px) {
+.applay-button a::before {
+font-size: 22px;
+}
+.consulting-text {
+	margin-left: 22px;
+}
+.sec-v2-title h1 {
+	font-size: 34px;
+}
+.video-inner-text h1 {
+	font-size: 48px;
+	line-height: 60px;
+}
+.post-v1-desc {
+	padding: 0px 20px;
+}
+.post-v1-desc.post-v1-sticky-overlay {
+	padding-top: 10px;
+}
+.post-v1-sticky-overlay-img {
+	padding-bottom: 144px;
+}
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.pt-100{padding-top:80px}
+.pb-100{padding-bottom:80px}
+.pb-80{padding-bottom:50px}
+.pb-70{padding-bottom:40px}
+.main-menu ul li a {
+	padding: 30px 4px;
+}
+.slider-wrapper,
+.slider-text {
+	width: 100%;
+}
+.slider-text h1 {
+font-size: 32px;
+}
+.video-inner {
+	margin-left: 65px;
+	margin-top: 30px;
+}
+.counting_sl {
+	margin: 20px 0;
+}
+.service-inner-box:nth-child(2n+1) {
+	clear: both;
+}
+.single-testimonial {
+padding: 10px 30px;
+}
+.service-v3-inner:nth-child(2n+1) {
+	clear: both;
+}
+nav#nav-mega-menu ul > li > a {
+padding: 34px 18px;
+}
+.applay-button-area {
+	display: none;
+}
+.mega-menu-area {
+	padding-right:15px;
+}
+nav#nav-mega-menu ul li ul.sub-menu {
+width: 720px;
+}
+.about-v2-img img {
+	width: 100%;
+	margin-bottom: 30px;
+}
+.service-v5-thumb img {
+	width: 100%;
+}
+.testimonaila-v2.owl-carousel {
+	margin-bottom: 70px;
+}
+.price-inner-item:nth-child(2n+1) {
+	clear: both;
+}
+.post-v1-sticky-overlay-img {
+	padding-bottom: 64px;
+}
+.post-v1-desc.post-v1-sticky-overlay {
+	padding-top: 70px;
+}
+.custom-nav-menu .navbar-header {
+	padding-top: 0px;
+}
+.service-v8-wrapper:nth-child(2n+1) {
+	clear: both;
+}
+.page-heading-v2 h1 {
+	font-size: 52px;
+}
+
+}
+
+
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+
+.pt-100{padding-top:80px}
+.pb-100{padding-bottom:80px}
+.pb-80{padding-bottom:50px}
+.pb-70{padding-bottom:40px}
+.logo {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.contact-inner {
+	padding-top: 8px;
+	text-align: center;
+}
+.consulting-btn a {
+	padding: 10px 28px;
+}
+.header-top-social {
+	text-align: center;
+	margin-top: 10px;
+}
+.search-bar-icon {
+padding:1px 70px;
+}
+.slider-wrapper,
+.slider-text {
+	width: 100%;
+}
+.slider-text h1 {
+font-size: 32px;
+}
+.video-inner {
+	margin-left: 65px;
+	margin-top: 30px;
+}
+.counting_sl {
+	margin: 20px 0;
+}
+.service-inner-box:nth-child(2n+1) {
+	clear: both;
+}
+.single-testimonial {
+padding: 10px 30px;
+}
+.post-thumb img {
+	width: 100%;
+}
+.footer-widget-inner {
+	margin: 20px 0;
+}
+.footer-sec {
+	padding-top: 60px;
+	padding-bottom: 40px;	
+}
+.service-v3-img img,
+.post-thumb-v2 img {
+	width: 100%;
+}
+.consulting-form {
+	padding: 100px 0px 100px 0px;
+}
+.photo-img-box img {
+	width: 100%;
+}
+.photo-img-box {
+width: 50%;
+}
+.about-v2-img img {
+	width: 100%;
+	margin-bottom: 30px;
+}
+.service-v5-thumb img {
+	width: 100%;
+}
+.testimonaila-v2.owl-carousel {
+	margin-bottom: 70px;
+}
+.price-inner-item:nth-child(2n+1) {
+	clear: both;
+}
+.post-v1-sticky-overlay-img {
+	padding-bottom: 64px;
+}
+.post-v1-desc.post-v1-sticky-overlay {
+	padding-top: 70px;
+}
+.page-heading h1 {
+font-size: 38px;
+}
+.post-v1-desc {
+	padding: 0px 30px;
+}
+.post-v1-img img {
+	width: 100%;
+}
+.post-blog-list-inner .post-v1-img,
+.post-blog-list-inner .post-v1-desc {
+width: 100%;
+}
+.sidebar {
+	margin-top: 40px;
+}
+.second-level-comment{
+	margin-left:0px;
+}
+.third-level-comment{
+	margin-left: 0px;
+}
+.page-heading-v2 h1 {
+	font-size: 52px;
+}
+.contact-page-map {
+	margin-bottom: 40px;
+}
+
+
+}
+@media only screen and (min-width: 0px) and (max-width: 560px) {
+
+
+}
+
+@media only screen and (min-width: 0px) and (max-width: 492px) {
+.slider-caption {
+	width:100%;
+}
+}
+
+@media only screen and (min-width: 0px) and (max-width: 440px) {
+.all-patner.owl-carousel.owl-theme .owl-item {
+	padding: 0 20px;
+}
+
+}
+
+@media only screen and (min-width: 0px) and (max-width: 550px) {
+
+
+}
+
+@media only screen and (min-width: 0px) and (max-width: 500px) {
+.post-writer .media-left.media-middle{
+	display: inherit;
+}
+.commenter-single-wrapper .media-left {
+	display: inherit;
+}
+
+}
+
+@media only screen and (min-width: 0px) and (max-width: 390px) {
+
+
+}
+@media only screen and (min-width: 0px) and (max-width: 359px) {
+
+}
